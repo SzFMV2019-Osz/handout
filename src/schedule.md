@@ -17,7 +17,7 @@ Az órák csütörtökönként a BA.F.07-ben vannak, neptun szerint 08:00-10:35 
 |11.|11.&nbsp;21.|_Rektori/dékáni szünet_
 |12.|11.&nbsp;28.|Összefoglalás, konzultáció, tárgy feedback|Retro + Pair programming
 |**13.**|**12.&nbsp;05.**|**harmadik demo**/retrospektív|Coding Dojo, feedback
-|**14.**|**12.&nbsp;12.**|**Zárthelyi dolgozat** ??:??-tól ??:??-ig (90 perc), 1.?? és 1.?? laborok
+|**14.**|**12.&nbsp;12.**|**Zárthelyi dolgozat** 08:00-tól 09:30-ig (90 perc), BA.1.10 labor
 
 ## Gantt diagram
 
